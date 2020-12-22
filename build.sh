@@ -1,0 +1,1 @@
+dart2native bin/FormatComment.dart -o build/fcomment
