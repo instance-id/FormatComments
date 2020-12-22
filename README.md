@@ -25,7 +25,7 @@ Running the above would take the comments below from this:
 222: {
 ```
  To this:
-```dotnet
+```c#
 // Filename: MyCode.cs
 217: } 
 218: 
@@ -74,3 +74,14 @@ Below, I just put my cursor on the correct line, then press Ctrl + Alt + 7, then
 If I wanted a character length of 50, you guessed it, Ctrl + Alt + 5, then 0. Boom. 
 
 ![](Media/example.gif)
+
+## Contributing
+
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.  
+
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
+
+---
+![alt text](https://i.imgur.com/cg5ow2M.png "instance.id")
