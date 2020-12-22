@@ -2,7 +2,7 @@
 
 A simple personal cli tool for formatting my comments strings. Highly unlikely that it will be useful to anyone else.
 
-Just in case, though, once compiled it accepts 3 positional parameters: file path, line number, and character count (all as string).
+Just in case, though, once compiled it has 3 positional parameters: file path, line number, and character count (all as string).
 
 Requires: dart2native to build as a desktop executable for whichever platform, should work for any.
 
