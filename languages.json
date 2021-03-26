@@ -1,0 +1,26 @@
+[
+  {
+    "ext": ".cs",
+    "chars": "//"
+  },
+  {
+    "ext": ".ps1",
+    "chars": "#"
+  },
+  {
+    "ext": ".sh",
+    "chars": "#"
+  },
+  {
+    "ext": ".zsh",
+    "chars": "#"
+  },
+  {
+    "ext": ".dart",
+    "chars": "//"
+  },
+  {
+    "ext": ".lua",
+    "chars": "--"
+  }
+]
